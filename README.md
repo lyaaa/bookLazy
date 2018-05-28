@@ -1,21 +1,20 @@
-## 基于vue+express+nodejs爬虫的移动书城 [ssr版本](https://github.com/tgxhx/vue-reader-ssr)
+## 基于vue+express+nodejs爬虫的移动书城 [ssr版本](http://www.huojiayule.com:9989/#/home)
 
-> 技术栈：vue + vue-router + vuex + webpack + axios + less + flex + express + nodejs + mysql + localStorage
+> 技术栈：vue + vue-router + vuex + webpack + axios + less + flex  + nodejs + mysql + localStorage
 
-> [预览地址](https://xyxxxx.com/reader)
+> [预览地址](http://www.huojiayule.com:9989/#/home)
 
-> [api地址](https://github.com/tgxhx/node-book-api)
+> [后台地址](git@github.com:lyaaa/lazybook.git)
 
-> [爬虫地址](https://github.com/tgxhx/node-crawler)
+> [爬虫地址](https://github.com/lyaaa/bookLazy.git)
 
-> 出了个人考虑，暂时关闭了在线api接口，提供sql文件下载，包含了接口使用的数据，可直接导入mysql中，[下载地址](https://pan.baidu.com/s/1b08B3S)
+> 出了个人考虑，暂时关闭了在线api接口，提供sql文件下载，包含了接口使用的数据，可直接导入mysql中，[下载地址](git@github.com:lyaaa/lazybook.git)
 
-> 另外推荐一下本项目的[react版本](https://github.com/tgxhx/react-reader),自己另外一个[vue高仿网易云音乐](https://github.com/tgxhx/vue-music)和一个[MD风格Cnode社区](https://github.com/tgxhx/vue-md-cnode)
 ## 使用说明
 
 ``` bash
 #克隆项目
-git clone git@github.com:tgxhx/vue-reader.git
+https://github.com/lyaaa/bookLazy.git
 
 # 安装依赖
 npm install
@@ -33,9 +32,9 @@ npm run build
 
 最开始是用jQuery写了阅读器部分，后来为了学习，就尝试用vue重构，学习了整个vue技术栈。
 
-后来想想阅读器写好了，没有书可不行，想想应该用爬虫爬点数据，于是各种查找node爬虫的资料，写了不少爬虫，本项目使用的爬虫地址在这：[地址](https://github.com/tgxhx/node-crawler)。
+后来想想阅读器写好了，没有书可不行，想想应该用爬虫爬点数据，于是各种查找node爬虫的资料，写了不少爬虫，本项目使用的爬虫地址在这：[地址](git@github.com:lyaaa/lazybook.git)。
 
-数据有了，接下来该构建api了，谷歌了一下发现用express好像不错，于是又学习了express部分，构建了所需的api,[地址在这](https://github.com/tgxhx/node-book-api)。
+数据有了，接下来该构建api了，谷歌了一下发现用express好像不错，于是又学习了express部分，构建了所需的api,[地址在这](https://github.com/lyaaa/bookLazy.git)。
 
 有的同学刚开始学习vue的时候可能有点茫然，不光是vue本身的用法、api、组件等等，查资料后发现还有vue-router、vuex等等需要学习。
 
