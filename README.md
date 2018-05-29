@@ -4,7 +4,7 @@
 
 > [预览地址](http://www.huojiayule.com:9989/#/home)
 
-> [后台地址](git@github.com:lyaaa/lazybook.git)
+> [后台地址](https://github.com/lyaaa/lazybook.git)
 
 > [爬虫地址](https://github.com/lyaaa/bookLazy.git)
 
